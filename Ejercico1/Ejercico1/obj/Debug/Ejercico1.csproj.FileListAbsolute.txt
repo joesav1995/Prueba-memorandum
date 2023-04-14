@@ -1,0 +1,7 @@
+C:\Users\joher\Music\Prueba memorandum\Ejercico1\Ejercico1\bin\Debug\Ejercico1.exe.config
+C:\Users\joher\Music\Prueba memorandum\Ejercico1\Ejercico1\bin\Debug\Ejercico1.exe
+C:\Users\joher\Music\Prueba memorandum\Ejercico1\Ejercico1\bin\Debug\Ejercico1.pdb
+C:\Users\joher\Music\Prueba memorandum\Ejercico1\Ejercico1\obj\Debug\Ejercico1.csproj.AssemblyReference.cache
+C:\Users\joher\Music\Prueba memorandum\Ejercico1\Ejercico1\obj\Debug\Ejercico1.csproj.CoreCompileInputs.cache
+C:\Users\joher\Music\Prueba memorandum\Ejercico1\Ejercico1\obj\Debug\Ejercico1.exe
+C:\Users\joher\Music\Prueba memorandum\Ejercico1\Ejercico1\obj\Debug\Ejercico1.pdb
